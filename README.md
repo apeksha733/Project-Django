@@ -5,9 +5,9 @@ Welcome to Sweets All Around, a basic Django web application developed for manag
 ## Features
 
 - **User Authentication**: Customers can log in. Admins can also manage staff accounts.
-- **Product Management**: Admins can add, edit, and delete products. They can manage product categories, prices, and quantities.
+- **Product Management**: Admins can add, edit, and delete products. They can manage product categories and quantities.
 - **Order Management**: Customers can view menu and get information.
-- **Search Functionality**: Users can search for products by name, category, or description.
+
 ## Installation
 
 - Clone the repository:
